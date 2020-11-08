@@ -29,7 +29,7 @@
 </div>
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&hide=issues,prs&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&hide=issues,prs&show_icons=true&custom_title=Github-Stats)
 
 </div>
 
