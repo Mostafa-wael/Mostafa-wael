@@ -29,13 +29,13 @@
 </div>
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&hide=issues,prs&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&hide=issues,prs&show_icons=true)
 
 </div>
-<!-- <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-wael&layout=compact&theme=dracula)](https://github.com/Mostafa-wael/github-readme-stats)
-</div> -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-wael&layout=compact&theme=dracula)](https://github.com/Mostafa-wael/github-readme-stats) -->
+
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats) -->
 
