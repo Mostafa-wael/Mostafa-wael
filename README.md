@@ -16,6 +16,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/Mostafa-wael)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Mostafa-wael)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=Mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-wael" />
 <!--[![Commits Badge](https://badges.pufler.dev/commits/monthly/Mostafa-wael)](https://badges.pufler.dev)-->
 </div>
 
