@@ -8,7 +8,7 @@
   <samp>
     Hi!👋 I'm Mostafa Wael,
     <br>I'm a second year computer enginnering student,
-      <br>I hope you that you find my projects useful for you!
+      <br>I hope that you you find my projects useful for you!
     <br>
   </samp>
 </p>
