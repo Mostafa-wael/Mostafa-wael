@@ -8,15 +8,14 @@
   <samp>
     Hi!👋 I'm Mostafa Wael,
     <br>I'm a second year computer enginnering student,
-      <br>I hope that you find my projects useful for you!
+      <br>I hope you that you find my projects useful for you!
     <br>
   </samp>
 </p>
 <div align="center">
 
-[![Years Badge](https://badges.pufler.dev/years/Mostafa-wael)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/Mostafa-wael)](https://badges.pufler.dev) -->
 [![Repos Badge](https://badges.pufler.dev/repos/Mostafa-wael)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=Mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-wael" />
 <!--[![Commits Badge](https://badges.pufler.dev/commits/monthly/Mostafa-wael)](https://badges.pufler.dev)-->
 </div>
 
@@ -30,12 +29,13 @@
 </div>
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&hide=issues,prs&show_icons=true&custom_title=Github-Stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&show_icons=true&custom_title=Github-Stats&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-wael&layout=compact&theme=dracula)](https://github.com/Mostafa-wael/github-readme-stats)
 
 </div>
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-wael&layout=compact&theme=dracula)](https://github.com/Mostafa-wael/github-readme-stats) -->
+
 
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats) -->
