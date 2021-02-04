@@ -29,7 +29,7 @@
 </div>
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&show_icons=true&custom_title=Github-Stats&theme=dracula)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mostafa-wael&count_private=true&show_icons=true&custom_title=Github-Stats&theme=dracula)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-wael&layout=compact&theme=dracula)](https://github.com/Mostafa-wael/github-readme-stats)
 
