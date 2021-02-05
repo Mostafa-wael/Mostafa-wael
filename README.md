@@ -35,10 +35,23 @@
 
 </div>
 
+<div align="center">
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Engineer-mostafa&theme=dracula&repo=ONpharma)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullahalshawafi&theme=dracula&repo=Mathemati_)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=Fe-L-fdaa-swa-X86)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=LCD-driver-Atmega328-328p)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=SPI-Protocol
+)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <!-- - Hi there 👋
 - 🔭 I’m currently working on ...
