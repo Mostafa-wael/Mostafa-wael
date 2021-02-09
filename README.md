@@ -23,8 +23,13 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mostafa-waelb07ab91a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/mostafa-waelb07ab91a3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/14043 328/mostafawael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow.com/users/14043 328/mostafawael" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3">
+  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+</a> 
+<a href="mailto:mostafa.w.k000@gmail.com">
+  <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
+<a href="https://stackoverflow.com/users/stackoverflow.com/users/14043 328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow.com/users/14043 328/mostafawael" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
@@ -50,19 +55,20 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-wael&theme=dracula" alt="mostafa-wael" /></p> -->
 
-
-<div align="center">
 <!--
+<div align="center">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullahalshawafi&theme=dracula&repo=Mathemati_)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Engineer-mostafa&theme=dracula&repo=ONpharma)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=Fe-L-fdaa-swa-X86)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=LCD-driver-Atmega328-328p)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-wael&theme=dracula&repo=SPI-Protocol
 )](https://github.com/anuraghazra/github-readme-stats)
--->
 </div>
-
+-->
 </b>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-wael" />
