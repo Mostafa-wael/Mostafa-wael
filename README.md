@@ -29,7 +29,7 @@
 <a href="mailto:mostafa.w.k000@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
-<a href="https://stackoverflow.com/users/stackoverflow.com/users/14043 328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow.com/users/14043 328/mostafawael" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow.com/users/14043 328/mostafawael" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
