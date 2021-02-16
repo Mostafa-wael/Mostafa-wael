@@ -3,12 +3,16 @@
 <h3 align="center">I’m currently learning <b>computer vision to help cars see 👀🚗</b></h3>
 
 
+<p align="center">
+ 
+ [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
+ </p>
+ 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="left">
 
  [![Repos Badge](https://badges.pufler.dev/repos/Mostafa-wael)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Mostafa-wael)](https://badges.pufler.dev)
-
  </p>
 
 
@@ -29,7 +33,11 @@
 <a href="mailto:mostafa.w.k000@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
-<a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow.com/users/14043 328/mostafawael" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="mostafawael" height="30" width="40" />
+</a>
+ <a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
+  <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
+</a>
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
