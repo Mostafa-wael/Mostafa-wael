@@ -27,19 +27,19 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3">
+<code><a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
-</a> 
-<a href="mailto:mostafa.w.k000@gmail.com">
+ </a> </code>
+<code><a href="mailto:mostafa.w.k000@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
-</a>
+</a></code>
 </p>
 <p align="left">
-<a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="mostafawael" height="30" width="40" />
-</a>
- <a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
+<code><a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="mostafawael" height="30" width="40" />
+</a></code>
+ <code><a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
-</a>
+</a></code>
  
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
