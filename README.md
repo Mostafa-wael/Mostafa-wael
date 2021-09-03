@@ -45,6 +45,7 @@
  <a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
 </a>
+<a href="https://medium.com/@mostafa.w.k000" target="blank"><img align="center" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" alt="https://medium.com/@mostafa.w.k000" height="30" width="40" /></a>
  
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
