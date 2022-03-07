@@ -74,7 +74,7 @@
 ---
 
 <!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-wael&theme=dracula&show_icons=true&locale=en&layout=compact" alt="mostafa-wael" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-wael&custom_title="My Stats"&theme=dracula&show_icons=true&locale=en&count_private=true&layout=compact" alt="mostafa-wael" /></p> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-wael&theme=dracula&show_icons=true&locale=en" alt="mostafa-wael" /></p>
 
