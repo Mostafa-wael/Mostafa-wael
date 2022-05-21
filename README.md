@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mostafa Wael <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
 <h3 align="center">A passionate computer engineering student </h3>
-<h3 align="center">I’m currently learning <b>computer vision to help cars see 👀🚗</b></h3>
+<h3 align="center">I’m interested in DevOps, Cloud and Infrastructure</b></h3>
 
 <p align="center">
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
