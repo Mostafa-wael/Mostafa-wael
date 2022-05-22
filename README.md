@@ -76,7 +76,6 @@
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-wael&custom_title="My Stats"&theme=dracula&show_icons=true&locale=en&count_private=true&layout=compact" alt="mostafa-wael" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-wael&theme=dracula&show_icons=true&locale=en" alt="mostafa-wael" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-wael&theme=dracula" alt="mostafa-wael" /></p> -->
 
@@ -94,16 +93,22 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 -->
-</b>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-wael" />
-<p>
- </br>
 </br>
 <h3 align="center">Random dev joke for you!</h3>
 <p align="center">
 <a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&theme=dracula&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes"></a>
  </p>
+ </b>
+ 
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-wael&theme=dracula&show_icons=true&locale=en" alt="mostafa-wael" /></p>
+ 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-wael" />
+<p>
+ </br>
+<p align="center">
+  <img src="https://github.com/Mostafa-wael/Mostafa-wael/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <p align="center">
     <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
