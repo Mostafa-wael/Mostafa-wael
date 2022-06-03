@@ -96,11 +96,19 @@
 <a href="https://www.ros.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/800px-Ros_logo.svg.png" alt="ROS" width="40" height="40"/> </a>
 </p>
 
+
+---
+<!-- Medium -->
+<h3 align="center">Check my latest article on Medium</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mostafa.w.k000/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mostafa.w.k000/0" alt="Recent Article 0"> 
+
+
 ---
 <!-- Dev Joke -->
 <h3 align="center">Random dev joke for you!</h3>
-<p align="center"><a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&theme=dracula&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes"></a>
-</p>
+  <p align="center">
+  <a><img align="center" src="https://readme-jokes.vercel.app/api?  bgColor=%23073b4c&theme=dracula&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes"></a>
+  </p>
 <!-- Stats -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-wael&theme=dracula&show_icons=true&locale=en" alt="mostafa-wael" />
 </p>
