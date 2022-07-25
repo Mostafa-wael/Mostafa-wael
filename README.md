@@ -9,22 +9,6 @@
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
 </p>
 
-<!-- Ranks -->
-<p align="center">
-
-[![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
-</p>
-
-
-<p align="left">
-
-[![Repos Badge](https://badges.pufler.dev/repos/Mostafa-wael)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Mostafa-wael)](https://badges.pufler.dev)
-</p>
-
-<p align="left">
-<a href="https://stackoverflow.com/users/14043328/mostafa-wael"><img src="https://stackoverflow.com/users/flair/14043328.png?theme=dark" width="220" height="58" alt="Mostafa Wael"></a>
-</p>
-
 ---
 <!-- Connect with me -->
 
@@ -104,16 +88,19 @@
 
 
 ---
-<!-- Dev Joke -->
-<h3 align="center">Random dev joke for you!</h3>
-  <p align="center">
-  <a><img align="center" src="https://readme-jokes.vercel.app/api?  bgColor=%23073b4c&theme=dracula&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes"></a>
-  </p>
 <!-- Stats -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-wael&theme=dracula&show_icons=true&locale=en" alt="mostafa-wael" />
 </p>
 <!-- Profile Views -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mostafa-wael&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-wael" />
+</p>
+<!-- Ranks -->
+<p align="center">
+
+[![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
+</p>
+<p align="center">
+<a href="https://stackoverflow.com/users/14043328/mostafa-wael"><img src="https://stackoverflow.com/users/flair/14043328.png?theme=dark" width="220" height="58" alt="Mostafa Wael"></a>
 </p>
 <!-- Snake -->
 <p align="center"><img src="https://github.com/Mostafa-wael/Mostafa-wael/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
