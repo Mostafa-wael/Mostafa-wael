@@ -14,13 +14,13 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 
-<a href="mailto:mostafa.w.k000@gmail.com">
+<a href="mailto:mostafa.w.k000@gmail.com" target="_blank">
 <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/56788883/152502680-84c9341e-93cf-4ec9-98a2-e61fd8440eb1.png" draggable="false" /></a>
 <a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="mostafawael" height="30" width="40" /></a>
 <a href="https://medium.com/@MostafaWael" target="blank"><img align="center" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" alt="https://medium.com/@mostafa.w.k000" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3">
+<a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3" target="_blank">
 <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/56788883/152502595-53ec1266-fc24-4487-8e20-185ce8ca1bb4.png" draggable="false" /></a> 
-<a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
+<a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following" target="_blank">
 <img align="left" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" /></a>
 
 --- 
@@ -100,7 +100,7 @@
 [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
 </p>
 <p align="center">
-<a href="https://stackoverflow.com/users/14043328/mostafa-wael"><img src="https://stackoverflow.com/users/flair/14043328.png?theme=dark" width="220" height="58" alt="Mostafa Wael"></a>
+<a href="https://stackoverflow.com/users/14043328/mostafa-wael" target="_blank" ><img src="https://stackoverflow.com/users/flair/14043328.png?theme=dark" width="220" height="58" alt="Mostafa Wael"></a>
 </p>
 <!-- Snake -->
 <p align="center"><img src="https://github.com/Mostafa-wael/Mostafa-wael/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
