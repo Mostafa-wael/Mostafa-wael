@@ -86,8 +86,9 @@
 ---
 <!-- Medium -->
 <h3 align="center">Check my latest article on Medium</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MostafaWael/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@MostafaWael/0" alt="Recent Article 0"> 
-
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MostafaWael/0">
+ <img align="center" src="https://github-readme-medium-recent-article.vercel.app/medium/@MostafaWael/0" alt="Recent Article 0"> 
+</a>
 
 ---
 <!-- Stats -->
@@ -99,7 +100,8 @@
 <!-- Ranks -->
 <p align="center">
 
-[![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
+</br> [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
+  
 </p>
 <p align="center">
 <a href="https://stackoverflow.com/users/14043328/mostafa-wael" target="_blank" ><img src="https://stackoverflow.com/users/flair/14043328.png?theme=dark" width="220" height="58" alt="Mostafa Wael"></a>
