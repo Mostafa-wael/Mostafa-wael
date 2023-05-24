@@ -99,8 +99,6 @@
 </p>
 <!-- Ranks -->
 <p align="center">
-
-</br> [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
   
 </p>
 <p align="center">
